@@ -1,0 +1,2 @@
+influxdb_client==1.48.0
+Requests==2.32.3
